@@ -1,0 +1,15 @@
+print("TOKO MAINAN ANAK")
+print("*********************************")
+nama_pembeli = input("Masukkan Nama Pembeli: ")
+kode_mainan = input("Masukkan Kode Mainan: ")
+harga = input("Masukkan Harga: ")
+jumlah_beli = input("Masukkan Jumlah Beli: ")
+total = (int(harga)*
+         int(jumlah_beli))
+
+print("*********************************")
+print("Nama Pembeli: " +str(nama_pembeli))
+print("Kode Mainan: " +str(kode_mainan))
+print("Harga: " +str(harga))
+print("Jumlah Beli: " +str(jumlah_beli))
+print("Total: ", (total))

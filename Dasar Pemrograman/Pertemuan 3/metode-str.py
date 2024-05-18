@@ -1,0 +1,7 @@
+print("Universitas Bina Sarana Informatika".lower())
+print("Universitas Bina Sarana Informatika".upper())
+print("Universitas Bina Sarana Informatika".split())
+print("Saya Belajar Python!".startswith("S"))
+print("I Love Python".endswith("hon"))
+print('_'.join(["I", "Love", "You"]))
+print("Saya Belajar Java di BSI".replace('Java', 'Python'))
